@@ -68,7 +68,7 @@
        color: white;
        display: inline;
        white-space: nowrap;
-       margin-right: 50px; /* Add margin for spacing between items */
+       margin-right: 50px;
     }
 
     
